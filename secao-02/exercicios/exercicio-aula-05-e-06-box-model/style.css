@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #E8EEF2;
+}
+
+h1 {
+    color: #1F3A5F;
+    text-align: center;
+}
+
+h2 {
+    color: #2F6690;
+    border-bottom: 5px dotted #7AA6C2;
+}
+
+.cartao {
+    background-color: #FFFFFF;
+    line-height: 1.6;
+    width: 300px;
+    padding: 10px 30px 20px;
+    border: #7AA6C2 solid 3px;
+    margin: 20px auto;
+}
+
+#lasanha {
+    border-top: 10px solid #153f5a;
+}
